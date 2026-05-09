@@ -22,14 +22,17 @@ Aprendo rapidamente o necessário e desenvolvo independentemente da tecnologia e
 ## 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,java,js,python,lua,rust,unity,nodejs,html,css,blender,photoshop" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,java,js,ts,python,lua,rust,go,unity,react,nextjs,nodejs,html,css,blender,photoshop,postgres" />
 </p>
 
 ### Linguagens
-C# • C++ • Java • JavaScript • Python • Lua • Rust  
+C# • C++ • Java • JavaScript • TypeScript • Python • Lua • Rust • Go  
 
 ### Frameworks / Tecnologias
-Unity • Flask • Node.js • ECMAScript • Bevy (Rust) • Roblox Studio  
+Unity • React • Next.js • Node.js • Flask • ECMAScript • Bevy (Rust) • Roblox Studio  
+
+### Backend & Banco de Dados
+Node.js • PostgreSQL  
 
 ### Web
 HTML • CSS  
@@ -52,7 +55,7 @@ HTML • CSS
 ## 🧰 Ferramentas
 
 ### Desenvolvimento
-VSCode • IntelliJ  
+VSCode • IntelliJ • Git  
 
 ### Design e 3D
 Blender • Photoshop • Krita • Paint Tool Sai • Canva • Photopea  
