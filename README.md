@@ -23,7 +23,7 @@ Adapto-me rápido a qualquer tecnologia. Prefiro entender o fundo antes de usar 
 
 ### Linguagens
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,cpp,java,js,ts,python,lua,rust,go" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,java,js,ts,python,lua,rust" />
 </p>
 
 ### Game Development
