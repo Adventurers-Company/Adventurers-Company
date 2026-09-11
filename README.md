@@ -6,7 +6,7 @@
 
 <p align="center">
   <code>Paraná, Brasil</code> &nbsp;•&nbsp;
-  <code>21 anos</code> &nbsp;•&nbsp;
+  <code>23 anos</code> &nbsp;•&nbsp;
   <code>Game Dev · Systems · Automation</code>
 </p>
 
